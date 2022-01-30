@@ -1,0 +1,689 @@
+﻿	<Document>
+		<name></name>
+		<description> | Created with https://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7149 RIDGE RD 45237</address>
+				<Point>
+					<coordinates>-84.4319844,39.1988053,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>718 ELM AVE 45174</address>
+				<Point>
+					<coordinates>-84.3107098,39.1585542,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7200 MIAMI AVE 45243</address>
+				<Point>
+					<coordinates>-84.3624626,39.1914395,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>729 JEFFERSON AVE 45215</address>
+				<Point>
+					<coordinates>-84.445246,39.222641,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>7421 E GALBRAITH RD 45243</address>
+				<Point>
+					<coordinates>-84.3636521,39.2044095,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>745 DERBY AVE 45232</address>
+				<Point>
+					<coordinates>-84.5182391,39.1709826,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>7451 MONTGOMERY RD 45236</address>
+				<Point>
+					<coordinates>-84.3943653,39.195687,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7515 FOREST RD 45255</address>
+				<Point>
+					<coordinates>-84.3501581,39.0718022,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7600 WINTON RD 45224</address>
+				<Point>
+					<coordinates>-84.5179589,39.2116851,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>7630 VIEW PLACE DR 45224</address>
+				<Point>
+					<coordinates>-84.4982429,39.2142551,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>7640 PLAINFIELD RD 45236</address>
+				<Point>
+					<coordinates>-84.3981087,39.2041492,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>7650 COOPER RD 45242</address>
+				<Point>
+					<coordinates>-84.361625,39.228958,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7712 JOSEPH ST 45231</address>
+				<Point>
+					<coordinates>-84.544141,39.233355,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7754 MONTGOMERY RD 45236</address>
+				<Point>
+					<coordinates>-84.3824582,39.1961251,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>7777 BLUE ASH RD 45236</address>
+				<Point>
+					<coordinates>-84.3944167,39.2044027,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>7950 PFEIFFER RD 45242</address>
+				<Point>
+					<coordinates>-84.3493576,39.2492057,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>7970 BEECHMONT AVE 45255</address>
+				<Point>
+					<coordinates>-84.3347309,39.0742997,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>8 ENFIELD ST 45218</address>
+				<Point>
+					<coordinates>-84.5204127,39.2676488,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>80 E SHARON AVE 45246</address>
+				<Point>
+					<coordinates>-84.4653794,39.2729347,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>800 OAK AVE 45215</address>
+				<Point>
+					<coordinates>-84.465205,39.2311724,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>800 VINE ST 45202</address>
+				<Point>
+					<coordinates>-84.5133708,39.1051431,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>8000 MIAMI AVE 45243</address>
+				<Point>
+					<coordinates>-84.3609824,39.2026205,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>8005 PFEIFFER RD 45242</address>
+				<Point>
+					<coordinates>-84.3473856,39.2484628,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>8100 BURKHART ST 45237</address>
+				<Point>
+					<coordinates>-84.4503893,39.209964,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>8119 CLOUGH PIKE 45244</address>
+				<Point>
+					<coordinates>-84.3296148,39.0880653,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>8130 E KEMPER RD 45249</address>
+				<Point>
+					<coordinates>-84.3386434,39.2798601,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>8221 MIAMI AVE 45243</address>
+				<Point>
+					<coordinates>-84.362014,39.2054805,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>8224 STAHLEY DR 45239</address>
+				<Point>
+					<coordinates>-84.5932615,39.2213247,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>8275 VINE ST 45216</address>
+				<Point>
+					<coordinates>-84.4749968,39.2122156,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>8288 WOOSTER PIKE 45227</address>
+				<Point>
+					<coordinates>-84.3387577,39.1441499,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>8320 VINE ST 45216</address>
+				<Point>
+					<coordinates>-84.4734445,39.2130826,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>8329 RIDGE RD 45236</address>
+				<Point>
+					<coordinates>-84.4292962,39.2134038,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>8351 PLAINFIELD RD 45236</address>
+				<Point>
+					<coordinates>-84.3994274,39.210576,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>8400 NORTHPORT DR 45255</address>
+				<Point>
+					<coordinates>-84.3212753,39.0794166,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>8471 FOREST RD 45255</address>
+				<Point>
+					<coordinates>-84.32222,39.0606831,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>8501 MONTGOMERY RD 45236</address>
+				<Point>
+					<coordinates>-84.3642667,39.2105462,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>8740 READING RD 45215</address>
+				<Point>
+					<coordinates>-84.4432352,39.2185522,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>8815 E KEMPER RD 45249</address>
+				<Point>
+					<coordinates>-84.3196521,39.266006,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>8910 WILLEY RD 45030</address>
+				<Point>
+					<coordinates>-84.7343467,39.2793231,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>901 FINDLAY ST 45214</address>
+				<Point>
+					<coordinates>-84.529827,39.115846,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>9158 WINTON RD 45231</address>
+				<Point>
+					<coordinates>-84.5095158,39.2328365,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>9208 DALY RD 45231</address>
+				<Point>
+					<coordinates>-84.5286902,39.2338053,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>9306 TOWNE SQUARE AVE 45242</address>
+				<Point>
+					<coordinates>-84.376239,39.2262479,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>9350 GIVEN RD 45243</address>
+				<Point>
+					<coordinates>-84.3211928,39.2230558,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>943 ROSETREE LN 45230</address>
+				<Point>
+					<coordinates>-84.3684296,39.068323,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>946 DANA AVE 45229</address>
+				<Point>
+					<coordinates>-84.482446,39.1518062,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>950 EDEN PARK DR 45202</address>
+				<Point>
+					<coordinates>-84.4961214,39.1163743,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>959 HAWTHORNE AVE 45205</address>
+				<Point>
+					<coordinates>-84.5625777,39.1093233,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>962 MOUNT ADAMS CIR 45202</address>
+				<Point>
+					<coordinates>-84.4977195,39.1113001,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>970 PURCELL AVE 45205</address>
+				<Point>
+					<coordinates>-84.5638238,39.1093854,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>9801 MANGHAM DR 45215</address>
+				<Point>
+					<coordinates>-84.4518049,39.245196,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>9913 WAYNE AVE 45215</address>
+				<Point>
+					<coordinates>-84.4644479,39.2444703,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>9940 NEW HAVEN RD 45030</address>
+				<Point>
+					<coordinates>-84.7709789,39.2672962,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>9976 JACKSON ST 45111</address>
+				<Point>
+					<coordinates>-84.2932223,39.1969626,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>998 MEADOWLAND DR 45255</address>
+				<Point>
+					<coordinates>-84.3377716,39.0646294,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>9994 ZIG ZAG RD 45242</address>
+				<Point>
+					<coordinates>-84.3627079,39.2413546,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>9999 WEST RD 45030</address>
+				<Point>
+					<coordinates>-84.7806552,39.2545231,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style><Style id="1"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/blue_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style><Style id="2"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/green_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style><Style id="3"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/yellow_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>

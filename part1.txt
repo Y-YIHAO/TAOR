@@ -1,0 +1,2981 @@
+﻿	<Document>
+		<name></name>
+		<description> | Created with https://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1 WORTHINGTON AVE 45215</address>
+				<Point>
+					<coordinates>-84.4722409,39.2251418,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>10000 MT NEBO RD 45052</address>
+				<Point>
+					<coordinates>-84.7726392,39.1489543,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>10050 WOODLAWN BLVD 45215</address>
+				<Point>
+					<coordinates>-84.4731749,39.2489185,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>10101 MONTGOMERY RD 45242</address>
+				<Point>
+					<coordinates>-84.3311329,39.267321,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>10174 LOVELAND MADEIRA RD 45140</address>
+				<Point>
+					<coordinates>-84.3022599,39.2366366,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1018 WESLEY AVE 45203</address>
+				<Point>
+					<coordinates>-84.5243897,39.1059445,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>10180 WOODLAWN BLVD 45215</address>
+				<Point>
+					<coordinates>-84.4744729,39.2523914,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1025 SPRINGFIELD PIKE 45215</address>
+				<Point>
+					<coordinates>-84.472636,39.2340754,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>10398 NEW HAVEN RD 45030</address>
+				<Point>
+					<coordinates>-84.7874821,39.2624563,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>10416 BOSSI LN 45218</address>
+				<Point>
+					<coordinates>-84.5110093,39.2610049,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>10461 PIPPIN RD 45231</address>
+				<Point>
+					<coordinates>-84.575054,39.2657331,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>10500 READING RD 45241</address>
+				<Point>
+					<coordinates>-84.4204039,39.2561845,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>10507 COLERAIN AVE 45252</address>
+				<Point>
+					<coordinates>-84.6083419,39.2674494,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1060 SMILEY AVE 45240</address>
+				<Point>
+					<coordinates>-84.5189295,39.2993611,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>10647 KENWOOD RD 45242</address>
+				<Point>
+					<coordinates>-84.3752829,39.2564472,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>10800 CAMPBELL RD 45030</address>
+				<Point>
+					<coordinates>-84.7968997,39.2420335,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>10980 THORNVIEW DR 45241</address>
+				<Point>
+					<coordinates>-84.4037649,39.2676468,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>10990 THORNVIEW DR 45241</address>
+				<Point>
+					<coordinates>-84.4037239,39.2693021,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>10998 SOUTHLAND RD 45240</address>
+				<Point>
+					<coordinates>-84.4939495,39.2734385,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>11109 HAMILTON AVE 45231</address>
+				<Point>
+					<coordinates>-84.5650537,39.2813049,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>11177 SPRINGFIELD PIKE 45246</address>
+				<Point>
+					<coordinates>-84.4833292,39.2764209,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1125 HARRISON AVE 45030</address>
+				<Point>
+					<coordinates>-84.8004908,39.256868,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>11251 MONTGOMERY RD 45249</address>
+				<Point>
+					<coordinates>-84.3306583,39.2694881,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>11440 SEBRING DR 45240</address>
+				<Point>
+					<coordinates>-84.5557177,39.2882401,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1150 W GALBRAITH RD 45231</address>
+				<Point>
+					<coordinates>-84.5293455,39.2165112,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>11555 WINTON RD 45240</address>
+				<Point>
+					<coordinates>-84.5234886,39.287165,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>11565 PIPPIN RD 45231</address>
+				<Point>
+					<coordinates>-84.571787,39.292336,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>11609 HANOVER RD 45240</address>
+				<Point>
+					<coordinates>-84.5122033,39.2906577,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>11637 CHESTER RD 45246</address>
+				<Point>
+					<coordinates>-84.4445961,39.286797,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>11665 N LEBANON RD 45140</address>
+				<Point>
+					<coordinates>-84.2850307,39.276605,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1175 BIRNEY LN 45230</address>
+				<Point>
+					<coordinates>-84.3761351,39.0735149,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1175 OVERLOOK AVE 45238</address>
+				<Point>
+					<coordinates>-84.5989114,39.1171614,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>11800 MASON RD 45249</address>
+				<Point>
+					<coordinates>-84.3159604,39.2843929,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>11850 ENYART RD 45140</address>
+				<Point>
+					<coordinates>-84.3090844,39.2844536,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1191 DEVILS BACKBONE RD 45233</address>
+				<Point>
+					<coordinates>-84.6450105,39.1177055,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>11970 KENN RD 45240</address>
+				<Point>
+					<coordinates>-84.5012085,39.2985863,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>11981 PIPPIN RD 45231</address>
+				<Point>
+					<coordinates>-84.573192,39.3028334,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>11999 LAWNVIEW AVE 45246</address>
+				<Point>
+					<coordinates>-84.4813263,39.2916056,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>120 WASHINGTON AVE 45217</address>
+				<Point>
+					<coordinates>-84.4964284,39.1680044,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1202 LINN ST 45203</address>
+				<Point>
+					<coordinates>-84.5275435,39.1081606,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>12079 N LEBANON RD 45140</address>
+				<Point>
+					<coordinates>-84.2843021,39.2876069,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>12135 COPPERFIELD DR 45241</address>
+				<Point>
+					<coordinates>-84.3781484,39.2939109,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>12191 MILL RD 45240</address>
+				<Point>
+					<coordinates>-84.5433141,39.3053535,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1228 CONSIDINE AVE 45204</address>
+				<Point>
+					<coordinates>-84.5623256,39.115119,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>126 S LEBANON RD 45140</address>
+				<Point>
+					<coordinates>-84.2846762,39.2701117,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1345 GRACE AVE 45208</address>
+				<Point>
+					<coordinates>-84.4326968,39.1362899,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1350 NORTH BEND RD 45224</address>
+				<Point>
+					<coordinates>-84.5403546,39.2031916,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1391 E CRESCENTVILLE RD 45246</address>
+				<Point>
+					<coordinates>-84.4475827,39.3003933,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>140 MAIN ST 45001</address>
+				<Point>
+					<coordinates>-84.7106975,39.1378931,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>1401 LOVELAND-MADERIA RD 45140</address>
+				<Point>
+					<coordinates>-84.2750363,39.2580376,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1428 EIGHT MILE RD 45255</address>
+				<Point>
+					<coordinates>-84.3215968,39.0765387,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1451 EBENEZER RD 45233</address>
+				<Point>
+					<coordinates>-84.652977,39.1228407,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1501 ELIZABETH PL 45237</address>
+				<Point>
+					<coordinates>-84.4715195,39.1771337,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1553 KINNEY AVE 45231</address>
+				<Point>
+					<coordinates>-84.5460021,39.2309933,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>1580 SUMMIT RD 45237</address>
+				<Point>
+					<coordinates>-84.4627144,39.2030826,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1586 GOODMAN AVE 45224</address>
+				<Point>
+					<coordinates>-84.5485764,39.2170598,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>1599 WEST ST 45215</address>
+				<Point>
+					<coordinates>-84.4405281,39.2319417,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1621 LINN ST 45214</address>
+				<Point>
+					<coordinates>-84.5278302,39.1141351,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1715 BEACON ST 45230</address>
+				<Point>
+					<coordinates>-84.3836914,39.0854279,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1769 CARLL ST 45225</address>
+				<Point>
+					<coordinates>-84.553772,39.1347242,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1809 RUTLAND AVE 45207</address>
+				<Point>
+					<coordinates>-84.4680466,39.1452473,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>1810 COURTLAND AVE 45212</address>
+				<Point>
+					<coordinates>-84.465891,39.1584426,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1820 RUTLAND AVE 45207</address>
+				<Point>
+					<coordinates>-84.4672654,39.1458174,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>1830 W GALBRAITH RD 45239</address>
+				<Point>
+					<coordinates>-84.5554848,39.2185119,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1837 SUTTON AVE 45230</address>
+				<Point>
+					<coordinates>-84.3903294,39.0880729,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>1908 SEYMOUR AVE 45237</address>
+				<Point>
+					<coordinates>-84.4585601,39.1878997,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1927 W KEMPER RD 45240</address>
+				<Point>
+					<coordinates>-84.5536269,39.2960176,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1930 FRICKE RD 45225</address>
+				<Point>
+					<coordinates>-84.5522759,39.1474268,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1930 W GALBRAITH RD 45239</address>
+				<Point>
+					<coordinates>-84.5583419,39.2187576,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>1947 MILES RD 45231</address>
+				<Point>
+					<coordinates>-84.5583755,39.2503702,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>1950 NAGEL RD 45255</address>
+				<Point>
+					<coordinates>-84.3304983,39.0871146,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2009 POGUE AVE 45208</address>
+				<Point>
+					<coordinates>-84.4615245,39.1342465,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2010 WOLFANGEL RD 45255</address>
+				<Point>
+					<coordinates>-84.3456416,39.0900527,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>2014 SPRINGDALE RD 45231</address>
+				<Point>
+					<coordinates>-84.5586171,39.2610777,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>207 N VINE ST 45030</address>
+				<Point>
+					<coordinates>-84.8166717,39.263739,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>21 CROMWELL RD 45218</address>
+				<Point>
+					<coordinates>-84.5239802,39.2676937,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>21 TAYLOR AVE 45052</address>
+				<Point>
+					<coordinates>-84.7462156,39.1513662,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2121 HATMAKER ST 45204</address>
+				<Point>
+					<coordinates>-84.5514571,39.1040885,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2145 COMPTON RD 45231</address>
+				<Point>
+					<coordinates>-84.5614865,39.2293898,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2161 GRANDIN RD 45208</address>
+				<Point>
+					<coordinates>-84.4595981,39.1292003,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2280 SYLVED LN 45238</address>
+				<Point>
+					<coordinates>-84.6212172,39.1324247,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>2301 INDIAN MOUND AVE 45212</address>
+				<Point>
+					<coordinates>-84.4504535,39.1686819,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2319 QUEBEC RD 45214</address>
+				<Point>
+					<coordinates>-84.5626326,39.1252499,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2324 MAY ST 45206</address>
+				<Point>
+					<coordinates>-84.495056,39.1236221,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>2411 BALTIMORE AVE 45225</address>
+				<Point>
+					<coordinates>-84.5646382,39.1544067,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2444 MADISON RD 45208</address>
+				<Point>
+					<coordinates>-84.4539803,39.1405664,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>2465 LITTLE DRY RUN RD 45244</address>
+				<Point>
+					<coordinates>-84.3418004,39.1012415,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>2485 SPRINGDALE RD 45231</address>
+				<Point>
+					<coordinates>-84.5699899,39.2573057,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>249 W FORRER AVE 45215</address>
+				<Point>
+					<coordinates>-84.4516428,39.2278979,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>2501 RIVERSIDE DR 45202</address>
+				<Point>
+					<coordinates>-84.4616893,39.1237458,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>2524 VICTORY PKWY 45206</address>
+				<Point>
+					<coordinates>-84.4839779,39.1263654,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>26  W NORTH BEND RD 45216</address>
+				<Point>
+					<coordinates>-84.4777306,39.197851,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>2600 BARTELS RD 45244</address>
+				<Point>
+					<coordinates>-84.3665129,39.1041128,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>2640 KEMPER LN 45206</address>
+				<Point>
+					<coordinates>-84.4870644,39.1286366,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>2645 W NORTH BEND RD 45239</address>
+				<Point>
+					<coordinates>-84.5717187,39.1896192,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>2651 ADAMS RD 45231</address>
+				<Point>
+					<coordinates>-84.5735329,39.2425108,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2729 ERIE AVE 45208</address>
+				<Point>
+					<coordinates>-84.4419227,39.139182,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2747 ERIE AVE 45208</address>
+				<Point>
+					<coordinates>-84.4411168,39.1391448,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>2760 JONROSE AVE 45239</address>
+				<Point>
+					<coordinates>-84.5793543,39.2139849,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2802 SHORT VINE ST 45219</address>
+				<Point>
+					<coordinates>-84.5088234,39.1318922,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>2823 EDEN AVE 45219</address>
+				<Point>
+					<coordinates>-84.5064471,39.13251,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2911 WOODSIDE DR 45221</address>
+				<Point>
+					<coordinates>-84.5153389,39.1341023,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>2950 SIDNEY AVE 45225</address>
+				<Point>
+					<coordinates>-84.5351047,39.1364007,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>2981 MONTANA AVE 45211</address>
+				<Point>
+					<coordinates>-84.5986342,39.1477997,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>2994 W GALBRAITH RD 45239</address>
+				<Point>
+					<coordinates>-84.5835301,39.2203135,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>300 GEORGE ST 45030</address>
+				<Point>
+					<coordinates>-84.8103444,39.2580902,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>3001 QUEEN CITY AVE 45238</address>
+				<Point>
+					<coordinates>-84.6007721,39.1349084,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>3011 HARRISON AVE 45211</address>
+				<Point>
+					<coordinates>-84.5978232,39.1470722,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3017 HARRISON AVE 45211</address>
+				<Point>
+					<coordinates>-84.5994483,39.1489647,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3030 ERIE AVE 45208</address>
+				<Point>
+					<coordinates>-84.4288092,39.1393461,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3130 JESSUP RD 45239</address>
+				<Point>
+					<coordinates>-84.5869809,39.199528,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>3156 GLENMORE AVE 45211</address>
+				<Point>
+					<coordinates>-84.6116071,39.1434536,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3172 SOUTH RD 45248</address>
+				<Point>
+					<coordinates>-84.6680585,39.1463305,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3173 SPRINGDALE RD 45251</address>
+				<Point>
+					<coordinates>-84.5825189,39.2538079,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>318 E 4TH ST 45202</address>
+				<Point>
+					<coordinates>-84.5073484,39.101007,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>3200 EBENEZER RD 45248</address>
+				<Point>
+					<coordinates>-84.6489644,39.1473041,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3204 WOODBURN AVE 45207</address>
+				<Point>
+					<coordinates>-84.4754236,39.1365174,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>3223 LINWOOD AVE 45226</address>
+				<Point>
+					<coordinates>-84.4298865,39.1274261,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3240 BANNING RD 45239</address>
+				<Point>
+					<coordinates>-84.5881037,39.2142328,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>330 FOREST AVE 45229</address>
+				<Point>
+					<coordinates>-84.501223,39.1475648,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3301 COMPTON RD 45251</address>
+				<Point>
+					<coordinates>-84.5879638,39.2378669,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>3310 COMPTON RD 45251</address>
+				<Point>
+					<coordinates>-84.5901112,39.2396206,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3345 EPWORTH AVE 45211</address>
+				<Point>
+					<coordinates>-84.6002968,39.1481341,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>335 ROCKDALE AVE 45229</address>
+				<Point>
+					<coordinates>-84.5010062,39.1447988,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3400 MICHIGAN AVE 45208</address>
+				<Point>
+					<coordinates>-84.4414305,39.1380237,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3458 READING RD 45229</address>
+				<Point>
+					<coordinates>-84.4914497,39.142909,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3460 EPWORTH AVE 45211</address>
+				<Point>
+					<coordinates>-84.5992549,39.1510699,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3473 NIAGARA ST 45251</address>
+				<Point>
+					<coordinates>-84.5934869,39.2494949,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3489 OBSERVATORY PL 45208</address>
+				<Point>
+					<coordinates>-84.4226212,39.1391323,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>3501 CHEVIOT AVE 45211</address>
+				<Point>
+					<coordinates>-84.6069787,39.1524348,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>3547 CLIFTON AVE 45220</address>
+				<Point>
+					<coordinates>-84.5194745,39.1471469,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3565 HUBBLE RD 45247</address>
+				<Point>
+					<coordinates>-84.6004336,39.2036225,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>3620 EPLEY LN 45247</address>
+				<Point>
+					<coordinates>-84.6030767,39.192544,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>3655 HARVEY AVE 45229</address>
+				<Point>
+					<coordinates>-84.4953781,39.1501349,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>3675 BLUE ROCK RD 45247</address>
+				<Point>
+					<coordinates>-84.601251,39.2148748,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3682 WEST FORK RD 45247</address>
+				<Point>
+					<coordinates>-84.6045595,39.1895247,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3691 PRESIDENT DR 45225</address>
+				<Point>
+					<coordinates>-84.5617321,39.1523665,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3707 EDGEWOOD DR 45211</address>
+				<Point>
+					<coordinates>-84.6086216,39.1782062,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3711 WEST FORK RD 45247</address>
+				<Point>
+					<coordinates>-84.605905,39.188731,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3716 WOODFORD RD 45213</address>
+				<Point>
+					<coordinates>-84.4107829,39.1812484,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3729 ROBB AVE 45211</address>
+				<Point>
+					<coordinates>-84.619893,39.156084,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3738 EASTERN AVE 45226</address>
+				<Point>
+					<coordinates>-84.4357699,39.1120524,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3745 CHESTNUT PARK LN 45002</address>
+				<Point>
+					<coordinates>-84.720638,39.16313,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3766 CLIFTON AVE 45220</address>
+				<Point>
+					<coordinates>-84.5178352,39.1522652,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>3780 SHADY LN 45052</address>
+				<Point>
+					<coordinates>-84.6988963,39.1633236,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3799 HYDE PARK AVE 45209</address>
+				<Point>
+					<coordinates>-84.4371231,39.1482027,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3800 VICTORY PKWY 45207</address>
+				<Point>
+					<coordinates>-84.4796222,39.1489123,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3810 POCAHONTAS AVE 45227</address>
+				<Point>
+					<coordinates>-84.3679206,39.1448375,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3820 WESTWOOD NORTHERN BLVD 45211</address>
+				<Point>
+					<coordinates>-84.6114182,39.1661901,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3825 WEST FORK RD 45247</address>
+				<Point>
+					<coordinates>-84.6090983,39.1889712,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>3854 RACE RD 45211</address>
+				<Point>
+					<coordinates>-84.6291961,39.1591155,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3882 PAXTON AVE 45209</address>
+				<Point>
+					<coordinates>-84.4252266,39.1475849,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3900 RACE RD 45211</address>
+				<Point>
+					<coordinates>-84.6283725,39.1603573,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>3951 W EIGHTH ST 45205</address>
+				<Point>
+					<coordinates>-84.5812944,39.1058426,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>3961 NORTH BEND RD 45211</address>
+				<Point>
+					<coordinates>-84.6070265,39.1613988,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>4033 GILMORE AVE 45209</address>
+				<Point>
+					<coordinates>-84.4304369,39.1524128,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>4108 W EIGHTH ST 45205</address>
+				<Point>
+					<coordinates>-84.5864075,39.1075391,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>4151 TURRILL ST 45223</address>
+				<Point>
+					<coordinates>-84.5430341,39.1619669,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>420 EZZARD CHARLES DR 45214</address>
+				<Point>
+					<coordinates>-84.5231302,39.1097075,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>4222 HAMILTON AVE 45223</address>
+				<Point>
+					<coordinates>-84.5399082,39.1642287,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>428 ELM AVE 45174</address>
+				<Point>
+					<coordinates>-84.3097189,39.1640142,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>4300 SPRINGDALE RD 45251</address>
+				<Point>
+					<coordinates>-84.6112391,39.2457034,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>4323 GLENWAY AVE 45205</address>
+				<Point>
+					<coordinates>-84.5856383,39.1133001,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>4343 COOPER RD 45242</address>
+				<Point>
+					<coordinates>-84.3887809,39.2366482,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>4400 ASHLAND AVE 45212</address>
+				<Point>
+					<coordinates>-84.4536522,39.1567605,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>4400 SMITH RD 45212</address>
+				<Point>
+					<coordinates>-84.4484011,39.1567793,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>4402 GLENHAVEN RD 45238</address>
+				<Point>
+					<coordinates>-84.5971475,39.0898391,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>4433 COOPER RD 45242</address>
+				<Point>
+					<coordinates>-84.3873043,39.2366352,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>4554 LAKE FOREST DR 45242</address>
+				<Point>
+					<coordinates>-84.3813921,39.2551233,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>4700 PADDOCK RD 45229</address>
+				<Point>
+					<coordinates>-84.475975,39.1714678,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>4721 READING RD 45237</address>
+				<Point>
+					<coordinates>-84.4689771,39.172124,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>4809 RAVENNA ST 45227</address>
+				<Point>
+					<coordinates>-84.3949045,39.1588305,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>4836 WARD ST 45227</address>
+				<Point>
+					<coordinates>-84.3915738,39.1584518,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5000 NORTH BEND RD 45211</address>
+				<Point>
+					<coordinates>-84.6018675,39.1776221,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5030 DUCK CREEK RD 45227</address>
+				<Point>
+					<coordinates>-84.409049,39.1661273,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5064 SIDNEY RD 45238</address>
+				<Point>
+					<coordinates>-84.6062494,39.1241926,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5125 DRAKE RD 45243</address>
+				<Point>
+					<coordinates>-84.3479267,39.1617026,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>5125 FOLEY RD 45238</address>
+				<Point>
+					<coordinates>-84.6106665,39.1029034,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5170 WINNESTE AVE 45232</address>
+				<Point>
+					<coordinates>-84.5129524,39.1846312,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5222 NORTH BEND RD 45247</address>
+				<Point>
+					<coordinates>-84.6032458,39.1825902,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>524 RINGGOLD ST 45202</address>
+				<Point>
+					<coordinates>-84.5055867,39.115239,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>5261 FOLEY RD 45238</address>
+				<Point>
+					<coordinates>-84.6161874,39.1034421,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5280 FOLEY RD 45238</address>
+				<Point>
+					<coordinates>-84.6151242,39.1046098,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5300 CORNELL RD 45242</address>
+				<Point>
+					<coordinates>-84.3698981,39.2700381,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>5301 WINNESTE AVE 45232</address>
+				<Point>
+					<coordinates>-84.5149685,39.1866402,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5312 OLD BLUE ROCK RD 45247</address>
+				<Point>
+					<coordinates>-84.6239472,39.2305762,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5320 STEWART AVE 45227</address>
+				<Point>
+					<coordinates>-84.3958934,39.165251,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>536 LINTON ST 45219</address>
+				<Point>
+					<coordinates>-84.4981703,39.132039,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5375 DRY RIDGE RD 45252</address>
+				<Point>
+					<coordinates>-84.6202497,39.2605415,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>5421 FOLEY RD 45238</address>
+				<Point>
+					<coordinates>-84.6241501,39.1041437,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5440 MOELLER AVE 45212</address>
+				<Point>
+					<coordinates>-84.4464753,39.1726651,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5501 HAMILTON AVE 45224</address>
+				<Point>
+					<coordinates>-84.5464929,39.1911272,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5541 CLEVES WARSAW PIKE 45238</address>
+				<Point>
+					<coordinates>-84.627931,39.11907,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5545 BELMONT AVE 45224</address>
+				<Point>
+					<coordinates>-84.5484685,39.191451,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>56 COOPER AVE 45002</address>
+				<Point>
+					<coordinates>-84.7513231,39.1709303,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>5701 DELHI PIKE 45233</address>
+				<Point>
+					<coordinates>-84.6385997,39.095872,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5730 COLERAIN AVE 45239</address>
+				<Point>
+					<coordinates>-84.5764249,39.1983837,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5751 SIGNAL POINTE DR 45247</address>
+				<Point>
+					<coordinates>-84.6677027,39.2010523,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5808 GLENVIEW AVE 45224</address>
+				<Point>
+					<coordinates>-84.5551174,39.1971217,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5848 KELLOGG AVE 45230</address>
+				<Point>
+					<coordinates>-84.4238521,39.0663594,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>5900 E GALBRAITH RD 45236</address>
+				<Point>
+					<coordinates>-84.3723968,39.206586,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#3</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>5903 HAWTHORNE AVE 45227</address>
+				<Point>
+					<coordinates>-84.3916149,39.1435829,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5910 ARGUS RD 45224</address>
+				<Point>
+					<coordinates>-84.5342929,39.1981171,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5915 RIDGE AVE 45213</address>
+				<Point>
+					<coordinates>-84.4280612,39.1798452,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>5936 RIDGE AVE 45213</address>
+				<Point>
+					<coordinates>-84.4268779,39.18003,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>5950 MONTGOMERY RD 45213</address>
+				<Point>
+					<coordinates>-84.4326784,39.1801532,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6000 DRAKE RD 45243</address>
+				<Point>
+					<coordinates>-84.3449271,39.1748993,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>601 ELLIOTT AVE 45215</address>
+				<Point>
+					<coordinates>-84.4549053,39.2150587,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>6118 VINE ST 45216</address>
+				<Point>
+					<coordinates>-84.4876834,39.186979,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6120 BRIDGETOWN RD 45248</address>
+				<Point>
+					<coordinates>-84.6504055,39.1578439,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>6125 DRY FORK RD 45002</address>
+				<Point>
+					<coordinates>-84.7733732,39.2043375,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>6137 SALEM RD 45230</address>
+				<Point>
+					<coordinates>-84.3912865,39.0750435,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>617 CLINTON SPRINGS AVE 45229</address>
+				<Point>
+					<coordinates>-84.4917853,39.1564846,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>617 STEINER AVE 45204</address>
+				<Point>
+					<coordinates>-84.5676413,39.0889117,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>619 CENTRAL AVE 45202</address>
+				<Point>
+					<coordinates>-84.520048,39.1020907,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>6201 RED BANK RD 45213</address>
+				<Point>
+					<coordinates>-84.4082839,39.1842358,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6233 WERK RD 45248</address>
+				<Point>
+					<coordinates>-84.6550458,39.1429074,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>630 GLENWOOD AVE 45229</address>
+				<Point>
+					<coordinates>-84.4935993,39.14902,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6303 HARRISON AVE 45247</address>
+				<Point>
+					<coordinates>-84.6533889,39.1861406,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>631 DE VOTIE AVE 45225</address>
+				<Point>
+					<coordinates>-84.5293475,39.1319906,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>6312 KENNEDY AVE 45213</address>
+				<Point>
+					<coordinates>-84.4135324,39.1852276,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6375 HARRISON AVE 45247</address>
+				<Point>
+					<coordinates>-84.6566801,39.1873369,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6394 WESSELMAN RD 45248</address>
+				<Point>
+					<coordinates>-84.6544618,39.182608,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6421 CORBLY RD 45230</address>
+				<Point>
+					<coordinates>-84.3791473,39.09321,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>6434 CORBLY RD 45230</address>
+				<Point>
+					<coordinates>-84.3786411,39.0955271,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6450 WIEHE RD 45237</address>
+				<Point>
+					<coordinates>-84.4518177,39.1901784,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>647 NEEB RD 45233</address>
+				<Point>
+					<coordinates>-84.6369987,39.104603,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>6474 BEECHMONT AVE 45230</address>
+				<Point>
+					<coordinates>-84.3788992,39.0872976,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>6481 BRIDGETOWN RD 45248</address>
+				<Point>
+					<coordinates>-84.6611833,39.1517178,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>65 E HOLLISTER ST 45219</address>
+				<Point>
+					<coordinates>-84.5101344,39.1253865,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>6525 BRIDGETOWN RD 45248</address>
+				<Point>
+					<coordinates>-84.6627095,39.1520553,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6654 STATE ROUTE 128 45041</address>
+				<Point>
+					<coordinates>-84.7046529,39.2153288,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6700 WINTON RD 45224</address>
+				<Point>
+					<coordinates>-84.520544,39.203102,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6720 HOME CITY AVE 45233</address>
+				<Point>
+					<coordinates>-84.691166,39.1167741,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>680 W SHARON RD 45240</address>
+				<Point>
+					<coordinates>-84.5009529,39.2754299,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>691 FLEMING RD 45231</address>
+				<Point>
+					<coordinates>-84.5052179,39.2358179,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>693 FRESNO RD 45240</address>
+				<Point>
+					<coordinates>-84.501114,39.2832951,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6944 MAIN ST 45244</address>
+				<Point>
+					<coordinates>-84.36517,39.124285,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6986 SALEM RD 45230</address>
+				<Point>
+					<coordinates>-84.3652606,39.0730212,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>6997 HAMILTON AVE 45231</address>
+				<Point>
+					<coordinates>-84.5497948,39.2199207,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7000 WINTON RD 45224</address>
+				<Point>
+					<coordinates>-84.5198432,39.2060242,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#1</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>703 COMPTON RD 45231</address>
+				<Point>
+					<coordinates>-84.5067339,39.2285637,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>705 PONTIUS RD 45233</address>
+				<Point>
+					<coordinates>-84.6639726,39.1096518,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#2</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>7050 BLUE ASH RD 45236</address>
+				<Point>
+					<coordinates>-84.3993388,39.1976859,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7080 GRANTHAM WAY 45230</address>
+				<Point>
+					<coordinates>-84.3579608,39.0852389,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7080 READING RD 45237</address>
+				<Point>
+					<coordinates>-84.4636471,39.1884375,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7130 HARRISON AVE 45247</address>
+				<Point>
+					<coordinates>-84.6754544,39.2137626,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='Count'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>7141 MIAMI AVE 45243</address>
+				<Point>
+					<coordinates>-84.3632619,39.1909686,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style><Style id="1"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/blue_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style><Style id="2"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/green_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style><Style id="3"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/yellow_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>
